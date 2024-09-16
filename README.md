@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **DSA in C++ & Web Development**
 
-- 🌱 I’m currently learning **React**&**C++**
+- 🌱 I’m currently learning **C++** & **React** 
 
 - 👨‍💻 All of my projects are available at [https://david-2610.github.io/Portfolio/](https://david-2610.github.io/Portfolio/)
 
