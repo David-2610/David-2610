@@ -1,6 +1,6 @@
 ![logo](https://github.com/David-2610/David-2610/blob/main/Black%20Trendy%20Gamer%20Youtube%20Banner.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-2610&label=Profile%20views&color=0e75b6&style=flat" alt="david-2610" /> </p>
-<h3 align="center">I am 1st year B.tech(CSE) Undergraduate Student./h3>
+<h3 align="center">I am 1st year B.tech(CSE) Undergraduate Student.
 
 - 🔭 I’m currently working on **DSA in C++ & Web Development**
 
