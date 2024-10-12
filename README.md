@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++** & **React**
 
-- 👨‍💻 All of my projects are available at
+- 👨‍💻 All of my projects are available soon
 
 - 📫 How to reach me **davidtembhare1005@gmail.com**
 
