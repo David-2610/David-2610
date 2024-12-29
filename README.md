@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++** & **React**
 
-- 👨‍💻 All of my projects are available soon
+- 👨‍💻 My LeetCode Profile -   <a href="https://www.leetcode.com/david-2610" target="blank">LEETCODE</a>
 
 - 📫 How to reach me **davidtembhare1005@gmail.com**
 
