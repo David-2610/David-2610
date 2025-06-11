@@ -1,4 +1,4 @@
-![logo](./Black%20Trendy%20Gamer%20Youtube%20Banner.png)
+![logo](./BANNER.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-2610&label=Profile%20views&color=0e75b6&style=flat" alt="david-2610" /> </p>
 <h3 align="center">I am 1st year B.tech(CSE) Undergraduate Student.
