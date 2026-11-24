@@ -1,7 +1,11 @@
 <div align="center">
 
   <!-- ==================== HEADER BANNER ==================== -->
-  <img src="./david-profile-banner.gif" width="100%" alt="David Tembhare — Software & Systems Developer" style="border-radius: 12px; max-width: 100%; box-shadow: 0px 8px 30px rgba(0, 240, 255, 0.2);" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/David-2610/David-2610/main/david-profile-banner.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/David-2610/David-2610/main/david-profile-banner.gif">
+    <img src="https://raw.githubusercontent.com/David-2610/David-2610/main/david-profile-banner.gif" width="100%" alt="David Tembhare — Software & Systems Developer" />
+  </picture>
 
   <br/><br/>
 
