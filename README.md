@@ -165,6 +165,10 @@ portfolio_portal: https://www.e-code.site
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,react,nextjs,redux,tailwind,nodejs,express,postgres,mongodb,redis,linux,docker,kubernetes,git,github,postman&perline=9" alt="Skill Icons Strip" />
+</p>
+
 <br/>
 
 <div align="center">
@@ -183,6 +187,9 @@ portfolio_portal: https://www.e-code.site
         <a href="https://github.com/David-2610/Coding-Contest-LAN"><img src="https://img.shields.io/badge/Repo-Coding--Contest--LAN-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"></a>
       </p>
       <p>High-performance browser-based coding contest platform built for offline/air-gapped campus environments. Hosted on a Linux laptop with local Wi-Fi & DNS routing, JSON-defined problem test suites, automated judge queuing, client monitoring, and real-time live leaderboards. Powered University of Allahabad's <b>Code Clash 1.0</b>.</p>
+      <p align="center">
+        <img src="./contest-network.svg" width="100%" alt="Code Clash Local Judging Network Architecture" />
+      </p>
       <p><b>Tech Stack:</b> <code>Python</code> · <code>Linux</code> · <code>LAN / DNS</code> · <code>WebSockets</code> · <code>System Design</code></p>
     </td>
     <td width="50%" valign="top">
@@ -222,7 +229,7 @@ portfolio_portal: https://www.e-code.site
         <a href="https://desifest.ca"><img src="https://img.shields.io/badge/Production-desifest.ca-7928CA?style=flat-square&logo=googlechrome&logoColor=white" alt="Production Website"></a>
         <img src="https://img.shields.io/badge/Scale-150k%2B_Attendees-blue?style=flat-square" alt="Scale">
       </p>
-      <p>Built and launched the responsive web platform for North America's premier South Asian music festival with over 150,000 annual attendees. Implemented interactive festival booking flows, schedule management, and dynamic contact and inquiry pipelines.</p>
+      <p>Built and launched the responsive web platform for North America's premier South Asian music festival (TD Bank-sponsored) with over 150,000 annual attendees. Implemented interactive festival booking flows, schedule management, and dynamic contact and inquiry pipelines.</p>
       <p><b>Tech Stack:</b> <code>React</code> · <code>Node.js</code> · <code>Tailwind CSS</code> · <code>REST API</code></p>
     </td>
     <td width="50%" valign="top">
@@ -293,7 +300,7 @@ portfolio_portal: https://www.e-code.site
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=David-2610&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="100%" alt="David's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=David-2610&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="100%" alt="David's GitHub Stats" />
       </td>
       <td width="50%" align="center">
         <img src="https://streak-stats.demolab.com?user=David-2610&theme=tokyonight&hide_border=true&border_radius=10" width="100%" alt="David's GitHub Streak" />
@@ -305,17 +312,6 @@ portfolio_portal: https://www.e-code.site
       </td>
     </tr>
   </table>
-</div>
-
-<br/>
-
-<!-- Contribution Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/David-2610/David-2610/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/David-2610/David-2610/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/David-2610/David-2610/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
 </div>
 
 <br/>
