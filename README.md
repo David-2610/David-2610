@@ -176,7 +176,7 @@ portfolio_portal: https://www.e-code.site
 </div>
 
 <!-- ==================== FEATURED PROJECTS ==================== -->
-## 🚀 Featured Projects & Crucial Repositories
+## 🚀 Featured Projects
 
 <table>
   <tr>
@@ -300,7 +300,7 @@ portfolio_portal: https://www.e-code.site
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=David-2610&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="100%" alt="David's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=David-2610&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&hide=contribs" width="100%" alt="David's GitHub Stats" />
       </td>
       <td width="50%" align="center">
         <img src="https://streak-stats.demolab.com?user=David-2610&theme=tokyonight&hide_border=true&border_radius=10" width="100%" alt="David's GitHub Streak" />
