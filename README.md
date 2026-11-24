@@ -352,11 +352,7 @@ portfolio_portal: https://www.e-code.site
 </div>
 
 <!-- ==================== 3D CONTRIBUTION ANIMATION (AT THE VERY LAST) ==================== -->
-## 🧊 3D Contribution Animation
-
-<p align="center">
-  <i>Dynamic 3D Isometric Git Contribution Matrix powered by <a href="https://github.com/yoshi389111/github-profile-3d-contrib"><b>github-profile-3d-contrib</b></a></i>
-</p>
+## 🧊 3D Contribution Animation>
 
 <div align="center">
   <picture>
