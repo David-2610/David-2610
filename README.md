@@ -5,9 +5,13 @@
 
   <br/><br/>
 
-  <!-- ==================== DYNAMIC TYPING SVG ==================== -->
+  <!-- ==================== DYNAMIC TYPING SVG (FIXED WIDTH & PADDING) ==================== -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=Software+%26+Systems+Developer;Full-Stack+%26+Distributed+Systems+Builder;Multi-Agent+AI+Architectures+(LangChain+%7C+LangGraph);GDG+Organizer+%7C+E-CODE+Club+Head;Competitive+Programmer+(LeetCode%3A+1466+%7C+CF%3A+773)" alt="Typing Animation" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=820&height=50&lines=Software+%26+Systems+Developer;Full-Stack+%26+Distributed+Systems+Builder;Multi-Agent+AI+Architectures+(LangChain+%7C+LangGraph);GDG+Organizer+%7C+E-CODE+Club+Head;Competitive+Programmer+(LeetCode+1466+%7C+CF+773)">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0284C7&center=true&vCenter=true&width=820&height=50&lines=Software+%26+Systems+Developer;Full-Stack+%26+Distributed+Systems+Builder;Multi-Agent+AI+Architectures+(LangChain+%7C+LangGraph);GDG+Organizer+%7C+E-CODE+Club+Head;Competitive+Programmer+(LeetCode+1466+%7C+CF+773)">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=820&height=50&lines=Software+%26+Systems+Developer;Full-Stack+%26+Distributed+Systems+Builder;Multi-Agent+AI+Architectures+(LangChain+%7C+LangGraph);GDG+Organizer+%7C+E-CODE+Club+Head;Competitive+Programmer+(LeetCode+1466+%7C+CF+773)" alt="David Tembhare Typing Animation" width="820" height="50">
+    </picture>
   </a>
 
   <br/>
@@ -74,7 +78,7 @@ portfolio_portal: https://www.e-code.site
 <!-- ==================== TECH STACK (WITH TEXT & LOGOS) ==================== -->
 ## 🛠️ Tech Stack & Technologies
 
-> *Every technology includes both its official icon and text designation.*
+> *Every technology includes both its official brand icon and clear text designation.*
 
 ### 💻 Programming Languages
 <p align="left">
@@ -234,61 +238,6 @@ portfolio_portal: https://www.e-code.site
   <img src="./line-neon.gif" width="100%" height="4" alt="Divider" />
 </div>
 
-<!-- ==================== 3D CONTRIBUTIONS GRAPH ==================== -->
-## 📊 3D Contribution Calendar
-
-<p align="center">
-  <i>Dynamic 3D Isometric Git Contribution Matrix powered by <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a></i>
-</p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
-    <img alt="David's 3D GitHub Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" style="border-radius: 10px; max-width: 900px;" />
-  </picture>
-</div>
-
-<br/>
-
-<!-- ==================== GITHUB ANALYTICS & STATS ==================== -->
-## 📈 GitHub Analytics & Commit Activity
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=David-2610&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="100%" alt="David's GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com?user=David-2610&theme=tokyonight&hide_border=true&border_radius=10" width="100%" alt="David's GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-2610&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="55%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/David-2610/David-2610/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/David-2610/David-2610/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/David-2610/David-2610/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./line-neon.gif" width="100%" height="4" alt="Divider" />
-</div>
-
 <!-- ==================== EXPERIENCE & LEADERSHIP ==================== -->
 ## 💼 Experience & Community Leadership
 
@@ -300,6 +249,10 @@ portfolio_portal: https://www.e-code.site
 | **Freelance Full-Stack Developer** | Self-employed | Jan 2025 – Feb 2025 | Launched the official **DESIFEST 2026** platform (150,000+ attendees) and developed an end-to-end Clinic Appointment platform with RESTful architecture. |
 
 <br/>
+
+<div align="center">
+  <img src="./line-neon.gif" width="100%" height="4" alt="Divider" />
+</div>
 
 <!-- ==================== EDUCATION & ACHIEVEMENTS ==================== -->
 ## 🎓 Education, Achievements & Certifications
@@ -329,7 +282,45 @@ portfolio_portal: https://www.e-code.site
   <img src="./line-neon.gif" width="100%" height="4" alt="Divider" />
 </div>
 
-<!-- ==================== CONNECT & FOOTER ==================== -->
+<!-- ==================== GITHUB ANALYTICS & COMMIT ACTIVITY ==================== -->
+## 📈 GitHub Analytics & Commit Activity
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=David-2610&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="100%" alt="David's GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://streak-stats.demolab.com?user=David-2610&theme=tokyonight&hide_border=true&border_radius=10" width="100%" alt="David's GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-2610&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="55%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- Contribution Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/David-2610/David-2610/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/David-2610/David-2610/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/David-2610/David-2610/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./line-neon.gif" width="100%" height="4" alt="Divider" />
+</div>
+
+<!-- ==================== CONNECT & COLLABORATE ==================== -->
 ## 🤝 Let's Connect & Collaborate
 
 <p align="center">
@@ -353,6 +344,29 @@ portfolio_portal: https://www.e-code.site
     <img src="https://img.shields.io/badge/Portal-e--code.site-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portal" />
   </a>
 </p>
+
+<br/>
+
+<div align="center">
+  <img src="./line-neon.gif" width="100%" height="4" alt="Divider" />
+</div>
+
+<!-- ==================== 3D CONTRIBUTION ANIMATION (AT THE VERY LAST) ==================== -->
+## 🧊 3D Contribution Animation
+
+<p align="center">
+  <i>Dynamic 3D Isometric Git Contribution Matrix powered by <a href="https://github.com/yoshi389111/github-profile-3d-contrib"><b>github-profile-3d-contrib</b></a></i>
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+    <img alt="David's 3D GitHub Contribution Animation" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" style="border-radius: 12px; max-width: 900px; box-shadow: 0px 8px 30px rgba(0, 240, 255, 0.15);" />
+  </picture>
+</div>
+
+<br/>
 
 <p align="center">
   <sub>Designed with precision &amp; passion · Built by <a href="https://github.com/David-2610">David Tembhare</a></sub>
